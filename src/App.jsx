@@ -167,14 +167,14 @@ const BASE_URL = 'http://localhost:8081';
                 >
                   Edit
                 </button>
-                {/*
+                {
                 <button
                   className="btn btn-danger btn-sm"
                   onClick={() => deleteProduct(p.id)}
                 >
                   Delete
                 </button>
-                */}
+                }
               </td>
             </tr>
           ))}
